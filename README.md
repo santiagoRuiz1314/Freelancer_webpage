@@ -45,6 +45,5 @@ El enfoque actual está en la implementación de estilos, mejoras en la experien
 
 ---
 
-Este proyecto representa una etapa intermedia en el desarrollo de una identidad digital freelance. La estructura está bien encaminada, y los siguientes pasos se centrarán en mejorar la presentación visual y funcionalidad interactiva.
 
  
